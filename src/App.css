@@ -75,14 +75,14 @@
   --sidebar-border: oklch(0.922 0 0);
   --sidebar-ring: oklch(0.708 0 0);
   
-  /* HealthKart Custom Colors */
-  --healthkart-teal: #00BCD4;
-  --healthkart-orange: #FF9800;
-  --healthkart-green: #4CAF50;
-  --healthkart-light-gray: #F5F5F5;
-  --healthkart-border: #E0E0E0;
-  --healthkart-text-dark: #333333;
-  --healthkart-text-light: #666666;
+  /* GZI KART Custom Colors */
+--gzikart-teal: #00BCD4;
+--gzikart-orange: #FF9800;
+--gzikart-green: #4CAF50;
+--gzikart-light-gray: #F5F5F5;
+--gzikart-border: #E0E0E0;
+--gzikart-text-dark: #333333;
+--gzikart-text-light: #666666;
 }
 
 .dark {
@@ -128,29 +128,29 @@
   }
 }
 
-/* HealthKart Custom Styles */
-.healthkart-teal {
-  color: var(--healthkart-teal);
+/* GZI KART Custom Styles */
+.gzikart-teal {
+  color: var(--gzikart-teal);
 }
 
-.bg-healthkart-teal {
-  background-color: var(--healthkart-teal);
+.bg-gzikart-teal {
+  background-color: var(--gzikart-teal);
 }
 
-.healthkart-orange {
-  color: var(--healthkart-orange);
+.gzikart-orange {
+  color: var(--gzikart-orange);
 }
 
-.bg-healthkart-orange {
-  background-color: var(--healthkart-orange);
+.bg-gzikart-orange {
+  background-color: var(--gzikart-orange);
 }
 
-.healthkart-green {
-  color: var(--healthkart-green);
+.gzikart-green {
+  color: var(--gzikart-green);
 }
 
-.bg-healthkart-green {
-  background-color: var(--healthkart-green);
+.bg-gzikart-green {
+  background-color: var(--gzikart-green);
 }
 
 .product-card {
@@ -167,10 +167,10 @@
 }
 
 .nav-item:hover {
-  color: var(--healthkart-teal);
+  color: var(--gzikart-teal);
 }
 
 .search-bar:focus {
-  border-color: var(--healthkart-teal);
+  border-color: var(--gzikart-teal);
   box-shadow: 0 0 0 2px rgba(0, 188, 212, 0.2);
 }

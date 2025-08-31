@@ -13,7 +13,7 @@ export const blockbusterDeals = [
   },
   {
     id: "2",
-    name: "HealthKart HK Vitals Collagen for Men, 200 g Watermelon",
+    name: "GZI KART HK Vitals Collagen for Men, 200 g Watermelon",
     image: null,
     rating: 5.0,
     reviewCount: 2,
@@ -115,7 +115,7 @@ export const megaDealPacks = [
   },
   {
     id: "10",
-    name: "HealthKart HK Vitals Multivitamin & Fish Oil 60 caps Combo",
+    name: "GZI KART HK Vitals Multivitamin & Fish Oil 60 caps Combo",
     image: null,
     rating: 4.6,
     reviewCount: 0,

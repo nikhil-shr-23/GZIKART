@@ -107,7 +107,7 @@ const ProductCard = ({ product }) => {
         >
           Add to Cart
         </Button>
-        <Button className="w-full bg-healthkart-orange hover:bg-orange-600 text-white">
+        <Button className="w-full bg-gzikart-orange hover:bg-orange-600 text-white">
           Buy Now
         </Button>
       </div>

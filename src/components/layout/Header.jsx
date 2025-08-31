@@ -15,8 +15,8 @@ const Header = () => {
           {/* Logo */}
           <div className="flex items-center">
             <div className="text-2xl font-bold">
-              <span className="bg-healthkart-green text-white px-2 py-1 rounded">HEALTH</span>
-              <span className="healthkart-teal ml-1">KART</span>
+                      <span className="bg-gzikart-green text-white px-2 py-1 rounded">GZI</span>
+        <span className="gzikart-teal ml-1">KART</span>
             </div>
           </div>
           
@@ -34,7 +34,7 @@ const Header = () => {
           
           {/* User Actions */}
           <div className="flex items-center space-x-4">
-            <Button variant="outline" className="healthkart-teal border-[#00BCD4]">
+            <Button variant="outline" className="gzikart-teal border-[#00BCD4]">
               <User className="h-4 w-4 mr-2" />
               Login
             </Button>
